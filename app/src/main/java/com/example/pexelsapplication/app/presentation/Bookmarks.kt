@@ -16,6 +16,12 @@ import androidx.compose.ui.res.stringResource
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavHostController
+import com.example.pexelsapplication.R
+import com.example.pexelsapplication.app.navigation.Screen
+import com.example.pexelsapplication.app.presentation.common.BookmarkedPhotosBlock
+import com.example.pexelsapplication.app.presentation.common.CustomToolBar
+import com.example.pexelsapplication.app.presentation.common.EmptyScreen
+import com.example.pexelsapplication.app.presentation.common.HorizontalProgressBar
 
 @Composable
 fun BookmarksScreen(

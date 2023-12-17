@@ -1,6 +1,5 @@
 package com.example.pexelsapplication.app.presentation.common
 
-import androidx.compose.foundation.R
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -11,6 +10,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
+import com.example.pexelsapplication.R
 
 @Composable
 fun DetailsPhoto(

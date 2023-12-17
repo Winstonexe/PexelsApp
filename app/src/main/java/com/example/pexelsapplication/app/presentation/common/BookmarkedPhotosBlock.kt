@@ -1,6 +1,5 @@
 package com.example.pexelsapplication.app.presentation.common
 
-import androidx.compose.foundation.R
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -25,6 +24,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
+import com.example.pexelsapplication.R
 import com.example.pexelsapplication.domain.PhotoDomain
 
 @Composable

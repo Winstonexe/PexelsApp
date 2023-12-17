@@ -16,6 +16,13 @@ import androidx.compose.ui.res.stringResource
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavController
+import com.example.pexelsapplication.Constants.hasInternetConnection
+import com.example.pexelsapplication.R
+import com.example.pexelsapplication.app.presentation.common.CustomSearchBar
+import com.example.pexelsapplication.app.presentation.common.EmptyScreen
+import com.example.pexelsapplication.app.presentation.common.FeaturedItemsBlock
+import com.example.pexelsapplication.app.presentation.common.HorizontalProgressBar
+import com.example.pexelsapplication.app.presentation.common.PhotosBlock
 import kotlinx.coroutines.launch
 
 @Composable

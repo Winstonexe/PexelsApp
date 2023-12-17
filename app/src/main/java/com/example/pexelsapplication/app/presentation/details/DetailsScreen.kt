@@ -1,7 +1,6 @@
 package com.example.pexelsapplication.app.presentation.details
 
 import android.app.Activity
-import androidx.compose.foundation.R
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -19,6 +18,7 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavController
+import com.example.pexelsapplication.R
 import com.example.pexelsapplication.app.downloader.AndroidDownloader
 import com.example.pexelsapplication.app.navigation.Screen
 import com.example.pexelsapplication.app.presentation.common.BottomBlock
