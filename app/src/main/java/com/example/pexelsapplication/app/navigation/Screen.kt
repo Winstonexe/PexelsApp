@@ -1,5 +1,6 @@
 package com.example.pexelsapplication.app.navigation
 
+import com.example.pexelsapplication.R
 
 
 sealed class Screen(
