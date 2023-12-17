@@ -1,4 +1,4 @@
-package com.example.pexelsapplication
+package com.example.pexelsapplication.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
