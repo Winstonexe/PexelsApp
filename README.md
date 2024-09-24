@@ -32,7 +32,7 @@ This project is licensed under the [Apache License](LICENSE).
 **Author:**
 - Team leader: [Winston](https://github.com/Winstonexe)
 - Designer: [Bober](https://github.com/baltazarovich)
-- Back-end developer: [DINaX](https://github.com/IDINaXI)
+- Вeveloper: [DINaX](https://github.com/IDINaXI)
 
 **Contact:**
 - Team leader Email: 1216345@mtp.by
