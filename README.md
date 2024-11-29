@@ -16,11 +16,7 @@ Pexels Image Loader is a beautiful mobile app for downloading images based on th
 
 **Technologies:**
 - **Pexels API:** Interact with the Pexels API to access a vast library of images.
-
-**Getting Started:**
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Run the app on your device with `npm start`.
+- Kotlin, Jetpack Compose, Dagger2/Hilt, 
 
 **Contributing:**
 - Feel free to create issues or pull requests for suggestions or bug reports.
@@ -30,14 +26,9 @@ This project is licensed under the [Apache License](LICENSE).
 
 
 **Author:**
-- Team leader: [Winston](https://github.com/Winstonexe)
-- Designer: [Bober](https://github.com/baltazarovich)
-- Вeveloper: [DINaX](https://github.com/IDINaXI)
+- [Winston](https://github.com/Winstonexe)
 
 **Contact:**
-- Team leader Email: 1216345@mtp.by
-- Designer Email: 1216241@mtp.by
-- Back-end developer Email: 1216779@mtp.by
-
+- Email: yaroshevichroman05@gmail.com
 **LinkedIn:** 
-- Team leader [LinkedIn Profile](www.linkedin.com/in/roman-yaroshevich-38342129a)
+- [LinkedIn Profile](www.linkedin.com/in/roman-yaroshevich)
